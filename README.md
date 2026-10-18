@@ -6,11 +6,11 @@
 
 ## 关于我
 
-我是王亚伟，拥有 **9 年研发经验**，专注于 **AI Agent、RAG 与大模型应用开发**。曾在亚信科技参与企业行研多智能体、运营商智能客服和 ChatBI 系统建设，工作覆盖架构设计、工作流编排、工具集成、模型微调与效果评估。
+我是王亚伟，**Agent 开发工程师**，拥有 **9 年研发经验**，专注于 **AI Agent、RAG 与大模型微调**。参与过企业行研多智能体、运营商智能客服和 ChatBI 系统建设，工作覆盖 Agent 架构设计、任务编排、工具集成、模型训练与效果评估。
 
-我的工程背景来自 WebGIS 与三维可视化，曾在泰瑞数创、商汤科技、中科星图从事前端与三维平台研发，熟悉 Cesium、Three.js 和 WebGL。这些经历让我能够同时考虑模型能力、后端执行和用户交互，把 Agent 从原型做成可以持续使用的应用。
+我重点关注 **Agent 运行时、上下文管理、长期记忆与多 Agent 协作**，以及 **面向工具调用的数据构造与 LoRA 微调**。通过 TravelNova 和 NexCode 持续实践从训练数据、模型推理到工具执行、任务恢复的完整流程，并把实现细节整理成开源代码和技术文章。
 
-近期主要投入 **Agent 运行时、上下文管理、长期记忆、多 Agent 协作，以及面向工具调用的微调数据构造**。我会把项目实现与实验过程整理成开源代码和技术文章。
+曾在 **商汤科技** 参与智能遥感平台研发，负责前端交互与三维可视化。
 
 📍 北京 · 🎓 吉首大学，地理信息系统本科
 
@@ -21,15 +21,14 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge)
 
 | 方向 | 技术与实践 |
 | --- | --- |
 | **Agent 工程** | ReAct、Function Calling、LangChain / LangGraph、MCP、Skills、多 Agent 协作、上下文与记忆管理 |
 | **RAG 检索** | 文档解析与分块、Embedding、Milvus、BM25、RRF 融合、Rerank、检索与回答质量评估 |
 | **模型微调** | Qwen3、Transformers、PEFT、LoRA SFT、训练数据构造、assistant 标签掩码、Badcase 迭代 |
-| **应用开发** | Python / asyncio / FastAPI、Java / Spring Boot、TypeScript / Vue 3 / Vite、SSE 流式交互 |
-| **三维可视化** | Cesium、Three.js、WebGL、WebGIS 与空间分析 |
+| **应用工程** | Python / asyncio / FastAPI、TypeScript、SSE 流式交互、Langfuse 调用追踪 |
 
 ## 精选项目
 
